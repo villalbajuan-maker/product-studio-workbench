@@ -1,5 +1,7 @@
 # Product Studio Workbench
 
+Start here: [START_HERE.md](START_HERE.md)
+
 This repository is the working system for a product studio focused on turning ambiguous business problems into defensible products, systems, and ventures.
 
 The studio operates from a simple thesis:
@@ -17,6 +19,14 @@ Core promise:
 > Turn ambiguous opportunities into defensible scopes before delivery starts.
 
 The validation goal is not to build a full product or brand yet. The goal is to sell one paid pilot using a lean landing page, a sample decision-map URL, and direct outreach to qualified prospects.
+
+## Visual Overview
+
+For a fast collaborator-friendly map of the studio logic, see:
+
+- [Studio Visual Map](studio/visual-map.md)
+- [Pre-Delivery Decision Map Executive Brief](offers/pre-delivery-decision-map/executive-brief.md)
+- [Vercel Deploy Guide](landing/deploy-vercel.md)
 
 ## Studio Model
 
@@ -56,4 +66,3 @@ We do not accept development as a commodity or equity for poorly formulated idea
 - Sell 1 paid pilot.
 
 The landing is the door. The sample artifact is the proof. The paid pilot is the validation.
-
