@@ -25,7 +25,7 @@ Goal:
 
 Work:
 
-- Deploy landing page to Vercel.
+- Deploy landing page to Vercel. Done.
 - Review visual/copy quality.
 - Make the sample decision map more compelling.
 - Add contact capture or booking flow.
@@ -123,4 +123,3 @@ Work:
 Exit criteria:
 
 - The studio has repeatable paid work or product evidence.
-

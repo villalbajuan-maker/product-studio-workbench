@@ -28,11 +28,15 @@ Commercial promise:
 
 > Turn ambiguous opportunities into defensible scopes before delivery starts.
 
+Live landing:
+
+> https://product-studio-workbench.vercel.app/
+
 ## What Exists Now
 
 - Studio thesis and business model.
 - First offer definition.
-- Landing page app generated from the validation prompt.
+- Landing page app generated from the validation prompt and deployed to Vercel.
 - Sample Pre-Delivery Decision Map content.
 - Outreach messages and validation plan.
 - Supabase migration for lead capture.

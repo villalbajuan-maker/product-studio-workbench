@@ -6,6 +6,10 @@ This folder contains the validation landing page for the first offer:
 
 The landing is not the final studio website. It is a commercial validation surface.
 
+Live URL:
+
+> https://product-studio-workbench.vercel.app/
+
 ## Job
 
 Get a qualified B2B service company to bring one ambiguous opportunity and book a conversation.
@@ -13,4 +17,3 @@ Get a qualified B2B service company to bring one ambiguous opportunity and book 
 ## Rule
 
 The landing is the door. The sample artifact is the proof. The paid pilot is the validation.
-

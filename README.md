@@ -25,6 +25,10 @@ Core promise:
 
 > Turn ambiguous opportunities into defensible scopes before delivery starts.
 
+Live landing:
+
+> https://product-studio-workbench.vercel.app/
+
 The validation goal is not to build a full product or brand yet. The goal is to sell one paid pilot using a lean landing page, a sample decision-map URL, and direct outreach to qualified prospects.
 
 ## Visual Overview
