@@ -59,13 +59,17 @@ We are trying to validate this:
 ## Recommended Reading Order
 
 1. [README.md](README.md)
-2. [Studio Visual Map](studio/visual-map.md)
-3. [Master Thesis](thesis/00-master-thesis.md)
-4. [Studio Positioning](studio/positioning.md)
-5. [Pre-Delivery Decision Map](offers/pre-delivery-decision-map/README.md)
-6. [Landing Copy](offers/pre-delivery-decision-map/landing-copy.md)
-7. [Commercial Validation Plan](validation/commercial-validation-plan.md)
-8. [Vercel Deploy Guide](landing/deploy-vercel.md)
+2. [Project History](PROJECT_HISTORY.md)
+3. [Collaboration](COLLABORATION.md)
+4. [Learnings](LEARNINGS.md)
+5. [Roadmap](ROADMAP.md)
+6. [Studio Visual Map](studio/visual-map.md)
+7. [Master Thesis](thesis/00-master-thesis.md)
+8. [Studio Positioning](studio/positioning.md)
+9. [Pre-Delivery Decision Map](offers/pre-delivery-decision-map/README.md)
+10. [Landing Copy](offers/pre-delivery-decision-map/landing-copy.md)
+11. [Commercial Validation Plan](validation/commercial-validation-plan.md)
+12. [Vercel Deploy Guide](landing/deploy-vercel.md)
 
 ## Current App
 
@@ -82,4 +86,3 @@ cd landing/landing-app
 npm install
 npm run dev
 ```
-

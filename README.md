@@ -2,6 +2,13 @@
 
 Start here: [START_HERE.md](START_HERE.md)
 
+For collaborators:
+
+- [Project History](PROJECT_HISTORY.md)
+- [Collaboration](COLLABORATION.md)
+- [Learnings](LEARNINGS.md)
+- [Roadmap](ROADMAP.md)
+
 This repository is the working system for a product studio focused on turning ambiguous business problems into defensible products, systems, and ventures.
 
 The studio operates from a simple thesis:
