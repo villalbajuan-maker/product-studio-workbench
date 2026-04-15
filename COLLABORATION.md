@@ -37,6 +37,11 @@ Primary responsibilities:
 - sell the first pilots;
 - help translate the thesis into buyer conversations.
 
+James-specific action plan:
+
+- [JAMES_ACTION_PLAN.md](JAMES_ACTION_PLAN.md)
+- [validation/james-feedback.md](validation/james-feedback.md)
+
 ## Shared Goal
 
 The goal is not to create a beautiful repo, a clever landing page, or a theoretical studio.

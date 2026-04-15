@@ -6,6 +6,7 @@ For collaborators:
 
 - [Project History](PROJECT_HISTORY.md)
 - [Collaboration](COLLABORATION.md)
+- [James Action Plan](JAMES_ACTION_PLAN.md)
 - [Learnings](LEARNINGS.md)
 - [Roadmap](ROADMAP.md)
 
